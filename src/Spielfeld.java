@@ -24,8 +24,6 @@ public class Spielfeld extends JFrame{
     public Spielfeld(int rows, int cols){
         int AnzFelder = rows * cols;
 
-        int test;
-
 
         JFrame myFrame = new JFrame();
         myFrame.setTitle("titel1");
